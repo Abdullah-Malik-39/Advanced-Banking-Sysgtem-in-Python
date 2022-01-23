@@ -1,0 +1,1 @@
+{"Arthur": ["123", "admin"], "Boris": ["ABC", "customer", "10 London Road", {"Current1": [100, 0]}], "Chloe": ["1+x", "customer", "99 Queens Road", {"Current1": [1000, 3000], "Saving1": [2.99, 4000]}], "David": ["aBC", "customer", "2 Birmingham Street", {"Saving1": [0.99, 200], "Saving2": [4.99, 5000]}]}
